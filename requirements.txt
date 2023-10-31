@@ -1,0 +1,8 @@
+nltk
+fastapi
+pandas
+typing
+uvicorn
+pyarrow
+textblob
+vaderSentiment
